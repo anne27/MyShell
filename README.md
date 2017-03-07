@@ -10,3 +10,6 @@ Requirements:
 -> Functionalities expected: cd, history, clear, piping, redirecting stdin and stdout (using > and <), kill, handling Cntrl+C, handling erroneous commands, handling return (enter), help which will list all the built-in commands implemented by the shell.
 
 -> No use of 'system' command - you have to write your own shell and not use existing shell.
+
+Instructions to execute the Makefile:
+'make --file=2015033_Shell_1.makefile'
