@@ -11,5 +11,5 @@ Requirements:
 
 -> No use of 'system' command - you have to write your own shell and not use existing shell.
 
-Instructions to execute the Makefile:
-'make --file=2015033_Shell_1.makefile'
+Command to execute the Makefile:
+`make --file=2015014_Shell1.makefile`
